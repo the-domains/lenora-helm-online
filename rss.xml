@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lenora Helm Online]]></title>
+        <description><![CDATA[Lenora Helm Online]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 17:58:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On stage in Oranjestad, Aruba]]></title>
+            <description><![CDATA[<article><h1>On stage in Oranjestad, Aruba</h1><p>I love singing on stages all over the world. Wanna look over my shoulder?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f504ef9636321f69aff86048f01c60daf50870f.jpg"></article>]]></description>
+            <link>undefinedon-stage-in-oranjestad-aruba/index.html</link>
+            <guid isPermaLink="false">4fb1ad23-1900-4d97-bc54-5cdd528d4b4b</guid>
+            <pubDate>Sun, 21 Feb 2016 17:58:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
