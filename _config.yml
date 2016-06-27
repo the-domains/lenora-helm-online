@@ -1,6 +1,6 @@
 name: Lenora Helm Online
 favicon: null
-layout_spectrum: 0.99063
+layout_spectrum: 0.55503
 typography_spectrum: 0.13872795971110463
 title: Vocal Jazz Musician
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040404'
-    - '#c0c0c0'
-    - '#929292'
-    - '#583434'
-    - '#ff6e62'
-  brandStrength: 0.75
+    - '#fafafa'
+    - '#887863'
+    - '#383232'
+    - '#d6d1d3'
+    - '#dfa07b'
+  brandStrength: 0.8125
   lightness: 0.8524222485721111
-  saturation: 0.48969134339131415
-  rhythmicContrast: 0.2527466472238302
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
